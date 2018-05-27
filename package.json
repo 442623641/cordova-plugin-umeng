@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-umeng",
+  "version": "3.0.0",
+  "description": "umeng sdk Plugin",
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "cordova": {
+    "id": "cordova-plugin-umeng",
+    "platforms": [
+      "android"
+    ]
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "dependent_plugins": {}
+}
